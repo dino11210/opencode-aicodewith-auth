@@ -8,7 +8,7 @@
       "model": "aicodewith/gpt-5.3-codex"
     },
     "oracle": {
-      "model": "aicodewith/gpt-5.2"
+      "model": "aicodewith/gpt-5.4"
     },
     "librarian": {
       "model": "aicodewith/claude-sonnet-4-5-20250929"
@@ -26,7 +26,7 @@
       "model": "aicodewith/claude-opus-4-6-20260205"
     },
     "momus": {
-      "model": "aicodewith/gpt-5.2"
+      "model": "aicodewith/gpt-5.4"
     },
     "atlas": {
       "model": "aicodewith/claude-sonnet-4-5-20250929"
