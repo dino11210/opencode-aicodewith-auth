@@ -58,7 +58,7 @@
       "model": "aicodewith/gpt-5.4"
     },
     "deep": {
-      "model": "aicodewith/gpt-5.3-codex"
+      "model": "aicodewith/gpt-5.4"
     },
     "artistry": {
       "model": "aicodewith/gemini-3.1-pro-preview"
