@@ -23,7 +23,7 @@
       "model": "aicodewith/claude-opus-4-7"
     },
     "metis": {
-      "model": "aicodewith/claude-opus-4-7"
+      "model": "aicodewith/claude-sonnet-4-6"
     },
     "momus": {
       "model": "aicodewith/gpt-5.5"
